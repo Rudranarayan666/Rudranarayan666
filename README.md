@@ -204,12 +204,12 @@ Built and optimized REST APIs, improving data processing efficiency and reducing
 
 ## <img src="https://img.shields.io/badge/-Coding_Profiles-4F46E5?style=flat-square"/>
 
+
+
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/Rudranarayan666"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://neetcode.io/profile/GrandGenin850"><img src="https://img.shields.io/badge/NeetCode-1B1B1B?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
