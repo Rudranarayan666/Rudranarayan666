@@ -40,7 +40,7 @@ focus: [Full-Stack Engineering, AI/ML Systems, Cloud-Native Architecture]
 mindset: Product engineering — ship things that scale and hold up in production
 ```
 
-**🎯 Open To:** Software Engineer roles · AI/ML Engineering · Backend Engineering · Open-source collaboration
+**🎯 Open To:** Software Engineer roles · AI/ML Engineering · Backend Engineering · Open-source collaboration · Full stack Developer
 
 <br/>
 
