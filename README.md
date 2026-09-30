@@ -70,11 +70,11 @@ mindset: Product engineering — ship things that scale and hold up in productio
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **LLMs & Agentic AI** | ⭐⭐⭐⭐ | LangChain, MCP, Agentic pipelines, NL-to-SQL systems |
+| **LLMs & Agentic AI** | ⭐⭐⭐⭐ | LangChain, MCP, Agentic pipelines, RAG ,NL-to-SQL systems |
 | **Explainable AI (XAI)** | ⭐⭐⭐⭐⭐ | SHAP-based interpretability, USRF research on ILPD (liver disease prediction) |
 | **Classical ML** | ⭐⭐⭐⭐ | Scikit-learn, ensemble methods, model evaluation |
 | **Computer Vision** | ⭐⭐⭐ | OpenCV, image-analysis, AI-content authenticity detection |
-| **Data & BI** | ⭐⭐⭐ | Vector DBs, Power BI, DuckDB analytics pipelines |
+| **Data & BI** | ⭐⭐⭐ | Vector DBs, Power BI, MATPLOTLIB ,DuckDB analytics pipelines |
 
 </div>
 
