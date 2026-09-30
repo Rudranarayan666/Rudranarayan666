@@ -35,7 +35,7 @@ I'm a **Software Engineering student** (B.E. IT, CGPA 9.22) with hands-on experi
 Currently serving as a **USRF 2026 AI/ML Research Fellow** at Amity Centre for Artificial Intelligence (Top 1% of applicants), working on explainable machine learning systems. I care about building **reliable, scalable, production-grade software** — not just prototypes that work on my machine.
 
 ```yaml
-role: Software Engineer
+role: Full stack Engineer 
 focus: [Full-Stack Engineering, AI/ML Systems, Cloud-Native Architecture]
 mindset: Product engineering — ship things that scale and hold up in production
 ```
